@@ -1,0 +1,21 @@
+C:/Users/user/Desktop/Sudoku-QuickSolve-master/Sudoku-QuickSolve-master/Sudoku QuickSolve/bin/Debug/Sudoku QuickSolve.exe.config
+C:/Users/user/Desktop/Sudoku-QuickSolve-master/Sudoku-QuickSolve-master/Sudoku QuickSolve/bin/Debug/Sudoku QuickSolve.exe
+C:/Users/user/Desktop/Sudoku-QuickSolve-master/Sudoku-QuickSolve-master/Sudoku QuickSolve/bin/Debug/Sudoku QuickSolve.pdb
+C:/Users/user/Desktop/Sudoku-QuickSolve-master/Sudoku-QuickSolve-master/Sudoku QuickSolve/obj/Debug/Sudoku_QuickSolve.Form1.resources
+C:/Users/user/Desktop/Sudoku-QuickSolve-master/Sudoku-QuickSolve-master/Sudoku QuickSolve/obj/Debug/Sudoku_QuickSolve.Properties.Resources.resources
+C:/Users/user/Desktop/Sudoku-QuickSolve-master/Sudoku-QuickSolve-master/Sudoku QuickSolve/obj/Debug/Sudoku QuickSolve.csproj.GenerateResource.Cache
+C:/Users/user/Desktop/Sudoku-QuickSolve-master/Sudoku-QuickSolve-master/Sudoku QuickSolve/obj/Debug/Sudoku QuickSolve.exe
+C:/Users/user/Desktop/Sudoku-QuickSolve-master/Sudoku-QuickSolve-master/Sudoku QuickSolve/obj/Debug/Sudoku QuickSolve.pdb
+C:/Users/user/Desktop/Sudoku-QuickSolve-master/Sudoku-QuickSolve-master/Sudoku QuickSolve/obj/Debug/Sudoku QuickSolve.csproj.AssemblyReference.cache
+C:/Users/user/Desktop/Sudoku-QuickSolve-master/Sudoku-QuickSolve-master/Sudoku QuickSolve/obj/Debug/Sudoku QuickSolve.csproj.SuggestedBindingRedirects.cache
+C:/Users/user/Desktop/Sudoku-QuickSolve-master/Sudoku-QuickSolve-master/Sudoku QuickSolve/obj/Debug/Sudoku QuickSolve.csproj.CoreCompileInputs.cache
+/Users/Lama/Downloads/Sudoku-QuickSolve-master/Sudoku-QuickSolve-master/Sudoku QuickSolve/bin/Debug/Sudoku QuickSolve.exe.config
+/Users/Lama/Downloads/Sudoku-QuickSolve-master/Sudoku-QuickSolve-master/Sudoku QuickSolve/bin/Debug/Sudoku QuickSolve.exe
+/Users/Lama/Downloads/Sudoku-QuickSolve-master/Sudoku-QuickSolve-master/Sudoku QuickSolve/bin/Debug/Sudoku QuickSolve.pdb
+/Users/Lama/Downloads/Sudoku-QuickSolve-master/Sudoku-QuickSolve-master/Sudoku QuickSolve/obj/Debug/Sudoku QuickSolve.csproj.AssemblyReference.cache
+/Users/Lama/Downloads/Sudoku-QuickSolve-master/Sudoku-QuickSolve-master/Sudoku QuickSolve/obj/Debug/Sudoku_QuickSolve.Form1.resources
+/Users/Lama/Downloads/Sudoku-QuickSolve-master/Sudoku-QuickSolve-master/Sudoku QuickSolve/obj/Debug/Sudoku_QuickSolve.Properties.Resources.resources
+/Users/Lama/Downloads/Sudoku-QuickSolve-master/Sudoku-QuickSolve-master/Sudoku QuickSolve/obj/Debug/Sudoku QuickSolve.csproj.GenerateResource.cache
+/Users/Lama/Downloads/Sudoku-QuickSolve-master/Sudoku-QuickSolve-master/Sudoku QuickSolve/obj/Debug/Sudoku QuickSolve.csproj.CoreCompileInputs.cache
+/Users/Lama/Downloads/Sudoku-QuickSolve-master/Sudoku-QuickSolve-master/Sudoku QuickSolve/obj/Debug/Sudoku QuickSolve.exe
+/Users/Lama/Downloads/Sudoku-QuickSolve-master/Sudoku-QuickSolve-master/Sudoku QuickSolve/obj/Debug/Sudoku QuickSolve.pdb
